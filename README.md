@@ -28,4 +28,6 @@ Steps to run the code :
 6) trained the model
 7) test the model
 8) Implement the model.
+
+Conclusion : With the help of Garbage Classifier we will be able to segregate the waste accordingly .
 -------------------------------------
